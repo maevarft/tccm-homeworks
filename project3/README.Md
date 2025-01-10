@@ -26,7 +26,7 @@ The project follows the structure below:
 ## Dependencies
 
 - Fortran compiler.
-- Math library (`libm` for C).
+- Math library
 - An external visualization tool (e.g., Jmol or Molden) for viewing the trajectory output.
 
 ## Usage
