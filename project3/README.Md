@@ -2,7 +2,7 @@
 
 ## Description
 
-This project implements a Molecular Dynamics (MD) program to simulate the motion of atoms based on their initial positions and velocities. The program calculates interactions using the Lennard-Jones potential and employs the Verlet algorithm to update atomic positions and velocities over time.
+This project implements a Molecular Dynamics program to simulate the motion of Argon based on their initial positions and velocities. The program calculates interactions using the Lennard-Jones potential and employs the Verlet algorithm to update atomic positions and velocities over time.
 
 ## Directory Structure
 
@@ -14,7 +14,6 @@ The project follows the structure below:
 - **`INSTALL.md`**: Includes detailed instructions for compiling and running the program.
 - **`src/`**: Contains the source code files.
 - **`tests/`**: Contains unit tests to validate the functionality of the code.
-- **`doc/`** *(optional)*: Includes additional documentation if required.
 
 ## Key Features
 
